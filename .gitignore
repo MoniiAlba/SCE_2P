@@ -1,0 +1,14 @@
+/WordProcessor/nbproject/private/
+/WordProcessor/build/
+/WordProcessor/WordEditorCore/build/
+/WordProcessor/WordEditorAPI/build/
+/WordProcessor/UppercaseFilter/build/
+/WordProcessor/WordEditorCore/nbproject/private/
+/WordProcessor/WordEditorAPI/nbproject/private/
+/WordProcessor/UppercaseFilter/nbproject/private/
+/Calculadora/nbproject/private/
+/Calculadora/build/
+/Calculadora/EditorOperadores/build/
+/Calculadora/EditorOperadoresApi/build/
+/Calculadora/Suma/build/
+/Calculadora/EditorHistory/build/
